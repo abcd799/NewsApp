@@ -57,7 +57,6 @@ li > a:hover {
 .news-item > img{
   height: 200px;
   width: 300px;
-  background-image: url("newsimage.jpg");
   background-size: contain;
   object-fit: cover;
   aspect-ratio: 1/1;  
